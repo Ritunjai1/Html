@@ -1,2 +1,6 @@
 This is my first File.
+<<<<<<< HEAD
 ghsh
+=======
+What is git?
+>>>>>>> 6b2baca8068ba43f30752d0ecfeec18fd04ad11d
